@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  10172.swift
 //  1-inputOutput & arithmeticOperation
 //
-//  Created by 김영훈 on 7/15/24.
+//  Created by 김영훈 on 7/17/24.
 //
 
 import Foundation
