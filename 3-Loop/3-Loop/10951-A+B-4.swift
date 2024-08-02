@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  10951-A+B-4.swift
 //  3-Loop
 //
-//  Created by 김영훈 on 7/29/24.
+//  Created by 김영훈 on 8/2/24.
 //
 
 import Foundation
