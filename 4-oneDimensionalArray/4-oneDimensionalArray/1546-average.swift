@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  1546-average.swift
 //  4-oneDimensionalArray
 //
-//  Created by 김영훈 on 8/2/24.
+//  Created by 김영훈 on 10/2/24.
 //
 
 import Foundation
@@ -20,3 +20,4 @@ for score in scores {
 
 let answer: Double = newScoresSum / Double(scores.count)
 print(answer)
+

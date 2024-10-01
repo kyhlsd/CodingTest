@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		15B5A6CA2CAC4FA1008030A0 /* 1546-average.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B5A6C92CAC4FA1008030A0 /* 1546-average.swift */; };
 		15FD64352C5CB62900F1D732 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15FD64342C5CB62900F1D732 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		15B5A6C52CAC3D27008030A0 /* 3052-remain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3052-remain.swift"; sourceTree = "<group>"; };
+		15B5A6C72CAC49D9008030A0 /* 10811-reverseBasket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10811-reverseBasket.swift"; sourceTree = "<group>"; };
+		15B5A6C92CAC4FA1008030A0 /* 1546-average.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1546-average.swift"; sourceTree = "<group>"; };
 		15FD64312C5CB62900F1D732 /* 4-oneDimensionalArray */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "4-oneDimensionalArray"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15FD64342C5CB62900F1D732 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		15FD643B2C5CB6BC00F1D732 /* 10810-putBalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10810-putBalls.swift"; sourceTree = "<group>"; };
@@ -60,6 +64,9 @@
 			children = (
 				15FD64342C5CB62900F1D732 /* main.swift */,
 				15FD643B2C5CB6BC00F1D732 /* 10810-putBalls.swift */,
+				15B5A6C52CAC3D27008030A0 /* 3052-remain.swift */,
+				15B5A6C72CAC49D9008030A0 /* 10811-reverseBasket.swift */,
+				15B5A6C92CAC4FA1008030A0 /* 1546-average.swift */,
 			);
 			path = "4-oneDimensionalArray";
 			sourceTree = "<group>";
@@ -123,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15FD64352C5CB62900F1D732 /* main.swift in Sources */,
+				15B5A6CA2CAC4FA1008030A0 /* 1546-average.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
