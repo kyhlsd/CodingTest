@@ -34,6 +34,9 @@
 				3_2_Greedy.swift,
 				3_3_Greedy.swift,
 				3_4_Greedy.swift,
+				4_1_1_Implement.swift,
+				4_1_2_Implement.swift,
+				4_2_Implement.swift,
 			);
 			target = 1538A12F2D7ADF5200C03E4C /* BookExample */;
 		};
