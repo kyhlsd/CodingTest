@@ -1,10 +1,11 @@
 //
-//  main.swift
+//  4_3_Implement.swift
 //  BookExample
 //
-//  Created by 김영훈 on 3/7/25.
+//  Created by 김영훈 on 3/9/25.
 //
 
+// page: 118
 import Foundation
 
 let mapSizes: [Int] = readLine()!.split(separator: " ").map { Int($0)! }
@@ -13,6 +14,8 @@ var maps = [[Int]]()
 for _ in 0..<mapSizes[0] {
     maps.append(readLine()!.split(separator: " ").map { Int($0)! })
 }
+
+// case 나누는 것보다 배열로 dx = [1,0,-1,0] 이런 식으로 하는게 효과적
 
 var keep = true
 // 처음 위치한 곳 가본 곳 처리
@@ -137,3 +140,4 @@ print(count)
 //1 0 0 1
 //1 1 0 1
 //1 1 1 1
+
