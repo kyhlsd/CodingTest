@@ -39,6 +39,10 @@
 				4_2_Implement.swift,
 				4_3_Implement.swift,
 				5_3_DFS.swift,
+				5_4_BFS.swift,
+				6_2_Sort.swift,
+				6_3_Sort.swift,
+				6_4_Sort.swift,
 			);
 			target = 1538A12F2D7ADF5200C03E4C /* BookExample */;
 		};
