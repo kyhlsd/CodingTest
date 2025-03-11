@@ -43,6 +43,8 @@
 				6_2_Sort.swift,
 				6_3_Sort.swift,
 				6_4_Sort.swift,
+				7_2_BinarySearch.swift,
+				7_3_BinarySearch.swift,
 			);
 			target = 1538A12F2D7ADF5200C03E4C /* BookExample */;
 		};
