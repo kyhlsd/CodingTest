@@ -45,6 +45,10 @@
 				6_4_Sort.swift,
 				7_2_BinarySearch.swift,
 				7_3_BinarySearch.swift,
+				8_2_DynamicProgramming.swift,
+				8_3_DynamicProgramming.swift,
+				8_4_DynamicProgramming.swift,
+				8_5_DynamicProgramming.swift,
 			);
 			target = 1538A12F2D7ADF5200C03E4C /* BookExample */;
 		};

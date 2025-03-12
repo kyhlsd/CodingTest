@@ -1,10 +1,11 @@
 //
-//  main.swift
+//  8_5_DynamicProgramming.swift
 //  BookExample
 //
-//  Created by 김영훈 on 3/7/25.
+//  Created by 김영훈 on 3/12/25.
 //
 
+//page: 226
 import Foundation
 
 let inputs = readLine()!.split(separator: " ").map { Int($0)! }
