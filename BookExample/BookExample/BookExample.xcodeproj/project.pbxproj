@@ -49,6 +49,8 @@
 				8_3_DynamicProgramming.swift,
 				8_4_DynamicProgramming.swift,
 				8_5_DynamicProgramming.swift,
+				9_2_FloydWarshall.swift,
+				9_3_dijkstra.swift,
 			);
 			target = 1538A12F2D7ADF5200C03E4C /* BookExample */;
 		};
