@@ -1,10 +1,11 @@
 //
-//  main.swift
+//  10_4_TopologySort.swift
 //  BookExample
 //
-//  Created by 김영훈 on 3/7/25.
+//  Created by 김영훈 on 3/15/25.
 //
 
+// page: 303
 import Foundation
 
 let n = Int(readLine()!)!

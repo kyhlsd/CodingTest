@@ -50,7 +50,10 @@
 				8_4_DynamicProgramming.swift,
 				8_5_DynamicProgramming.swift,
 				9_2_FloydWarshall.swift,
-				9_3_dijkstra.swift,
+				9_3_Dijkstra.swift,
+				10_2_Union.swift,
+				10_3_Kruskal.swift,
+				10_4_TopologySort.swift,
 			);
 			target = 1538A12F2D7ADF5200C03E4C /* BookExample */;
 		};
