@@ -31,6 +31,10 @@
 		15E2ADCE2D870AE6005340B2 /* 11_4_Greedy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11_4_Greedy.swift; sourceTree = "<group>"; };
 		15E2ADD02D870AF0005340B2 /* 11_5_Greedy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11_5_Greedy.swift; sourceTree = "<group>"; };
 		15E2AE642D899ED6005340B2 /* 11_6_Greedy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11_6_Greedy.swift; sourceTree = "<group>"; };
+		15E2AE652D899FF1005340B2 /* 12_7_implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_7_implement.swift; sourceTree = "<group>"; };
+		15E2AE662D89A0CB005340B2 /* 12_8_implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_8_implement.swift; sourceTree = "<group>"; };
+		15E2AE672D8A5AFD005340B2 /* 12_9_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_9_Implement.swift; sourceTree = "<group>"; };
+		15E2AE682D8A8468005340B2 /* 12_10_implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_10_implement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -120,6 +124,10 @@
 				15E2ADCE2D870AE6005340B2 /* 11_4_Greedy.swift */,
 				15E2ADD02D870AF0005340B2 /* 11_5_Greedy.swift */,
 				15E2AE642D899ED6005340B2 /* 11_6_Greedy.swift */,
+				15E2AE652D899FF1005340B2 /* 12_7_implement.swift */,
+				15E2AE662D89A0CB005340B2 /* 12_8_implement.swift */,
+				15E2AE672D8A5AFD005340B2 /* 12_9_Implement.swift */,
+				15E2AE682D8A8468005340B2 /* 12_10_implement.swift */,
 			);
 			path = Part3;
 			sourceTree = "<group>";

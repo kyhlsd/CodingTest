@@ -5,6 +5,7 @@
 //  Created by 김영훈 on 3/18/25.
 //
 
+// page: 316
 import Foundation
 
 func solution(foodTimes: [Int], k: Int) -> Int {
