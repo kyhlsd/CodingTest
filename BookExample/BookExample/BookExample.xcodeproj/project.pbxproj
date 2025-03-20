@@ -35,6 +35,9 @@
 		15E2AE662D89A0CB005340B2 /* 12_8_implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_8_implement.swift; sourceTree = "<group>"; };
 		15E2AE672D8A5AFD005340B2 /* 12_9_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_9_Implement.swift; sourceTree = "<group>"; };
 		15E2AE682D8A8468005340B2 /* 12_10_implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_10_implement.swift; sourceTree = "<group>"; };
+		15E2AED32D8BB44D005340B2 /* 12_11_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_11_Implement.swift; sourceTree = "<group>"; };
+		15E2AED42D8BB4CA005340B2 /* 12_12_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_12_Implement.swift; sourceTree = "<group>"; };
+		15E2AED52D8BF998005340B2 /* 12_13_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_13_Implement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -128,6 +131,9 @@
 				15E2AE662D89A0CB005340B2 /* 12_8_implement.swift */,
 				15E2AE672D8A5AFD005340B2 /* 12_9_Implement.swift */,
 				15E2AE682D8A8468005340B2 /* 12_10_implement.swift */,
+				15E2AED32D8BB44D005340B2 /* 12_11_Implement.swift */,
+				15E2AED42D8BB4CA005340B2 /* 12_12_Implement.swift */,
+				15E2AED52D8BF998005340B2 /* 12_13_Implement.swift */,
 			);
 			path = Part3;
 			sourceTree = "<group>";
