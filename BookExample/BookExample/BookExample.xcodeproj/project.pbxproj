@@ -38,6 +38,9 @@
 		15E2AED32D8BB44D005340B2 /* 12_11_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_11_Implement.swift; sourceTree = "<group>"; };
 		15E2AED42D8BB4CA005340B2 /* 12_12_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_12_Implement.swift; sourceTree = "<group>"; };
 		15E2AED52D8BF998005340B2 /* 12_13_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_13_Implement.swift; sourceTree = "<group>"; };
+		15E2AF312D8D40CF005340B2 /* 12_14_Implement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12_14_Implement.swift; sourceTree = "<group>"; };
+		15E2AF322D8D4ED4005340B2 /* 13_15_dijkstra.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13_15_dijkstra.swift; sourceTree = "<group>"; };
+		15E2AF332D8D670C005340B2 /* 13_16_dfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13_16_dfs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -134,6 +137,9 @@
 				15E2AED32D8BB44D005340B2 /* 12_11_Implement.swift */,
 				15E2AED42D8BB4CA005340B2 /* 12_12_Implement.swift */,
 				15E2AED52D8BF998005340B2 /* 12_13_Implement.swift */,
+				15E2AF312D8D40CF005340B2 /* 12_14_Implement.swift */,
+				15E2AF322D8D4ED4005340B2 /* 13_15_dijkstra.swift */,
+				15E2AF332D8D670C005340B2 /* 13_16_dfs.swift */,
 			);
 			path = Part3;
 			sourceTree = "<group>";
