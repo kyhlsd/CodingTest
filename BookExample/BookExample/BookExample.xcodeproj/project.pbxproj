@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		1538A1302D7ADF5200C03E4C /* BookExample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BookExample; sourceTree = BUILT_PRODUCTS_DIR; };
 		1538A1332D7ADF5200C03E4C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		15D7BF712D92611B0085867E /* 13_20_BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13_20_BFS.swift; sourceTree = "<group>"; };
 		15E2ADC82D86F081005340B2 /* 11_1_Greedy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11_1_Greedy.swift; sourceTree = "<group>"; };
 		15E2ADCA2D86FEF9005340B2 /* 11_2_Greedy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11_2_Greedy.swift; sourceTree = "<group>"; };
 		15E2ADCC2D870100005340B2 /* 11_3_Greedy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11_3_Greedy.swift; sourceTree = "<group>"; };
@@ -146,6 +147,7 @@
 				15E2AF642D911B68005340B2 /* 13_17_BFS.swift */,
 				15E2AF652D912387005340B2 /* 13_18_Implement.swift */,
 				15E2AF662D912981005340B2 /* 13_19_Permutation.swift */,
+				15D7BF712D92611B0085867E /* 13_20_BFS.swift */,
 			);
 			path = Part3;
 			sourceTree = "<group>";
